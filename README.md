@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Did you find this page through a job application or Applicant Tracking System?
+
+Note that this page is largely empty because I currently do not share my code on GitHub. If you want to learn more about my past or ongoing projects, please view my portfolio at [https://problemecium.com/Portfolio](https://problemecium.com/Portfolio) or contact me directly.
+
 <!--
 **problemecium/problemecium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
